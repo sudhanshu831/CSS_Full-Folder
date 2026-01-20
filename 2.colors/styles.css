@@ -1,0 +1,21 @@
+h1{
+    color: green;
+    background-color: lightgrey;  
+}
+
+h2{
+    color: rgb(255, 255, 0);
+    background-color: rgb(0, 0, 30);
+}
+
+p{
+    color: #ff5733;
+    background-color: #c0c0c0;
+}
+body{
+    color: black;
+    background-color: rgb(255, 255, 0);
+}
+div{
+    background-color: rgba(255,000,000,0.5);
+}

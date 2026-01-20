@@ -1,0 +1,17 @@
+div {
+    display: inline-block;
+    height: 500px;
+    width: 500px;
+    margin: 20px;
+    border: 2px solid black;
+    font-size: 90px;
+}
+#box1{
+    background-image: url("img.webp");
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+#box3{
+    background-image: url("goku-faces-destiny-hf.jpg");
+    background-size: cover;
+}

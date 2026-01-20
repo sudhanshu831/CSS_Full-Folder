@@ -1,0 +1,19 @@
+div {
+    height: 50px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+.navbar {
+    background-color: grey;
+    display: flex; /* Ensure the navbar is a flex container */
+    flex-direction: row;
+    justify-content: space-around; /* This will space the anchor tags evenly */
+    align-items: flex-start;  
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-top: 1em;
+}
